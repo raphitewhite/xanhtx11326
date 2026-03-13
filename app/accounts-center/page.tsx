@@ -58,7 +58,7 @@ export default function AccountsCenterPage() {
                 </h2>
                 <ul className="space-y-2 text-sm text-slate-700 sm:text-[15px]">
                   <li>
-                    - Our verification team operates within a professional environment. Requests that
+                    - Our verification team operates within a professional environment.  Requests that
                     include threats, abusive language, or hate speech will not be reviewed.
                   </li>
                   <li>
