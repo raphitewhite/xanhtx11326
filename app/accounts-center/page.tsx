@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Accounts Center | Meta Verified",
-  description: "Meta Verified: Showcasing Your Professional Credibility",
+  description: "Meta Verified: Strengthening Your Professional Presence",
   alternates: {
     canonical: "/accounts-center",
   },
@@ -29,23 +29,24 @@ export default function AccountsCenterPage() {
               </div>
               <div>
                 <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl">
-                  Meta Verified: Showcasing Your Professional Credibility
+                  Meta Verified: Strengthening Your Professional Presence
                 </h1>
                 <p className="mt-2 text-sm font-semibold text-slate-800">
-                  Strengthen your authority and demonstrate that your brand operates with professionalism.
+                  Enhance your authority and demonstrate that your brand operates with professionalism and trust.
                 </p>
               </div>
             </div>
 
             <div className="space-y-4 text-sm leading-relaxed text-slate-700 sm:text-base">
               <p>
-                Congratulations on successfully meeting the strict requirements to upgrade your page with
-                the verified blue badge. This milestone reflects your ongoing commitment and the strong
-                level of trust you have built within your community.
+                Congratulations on successfully meeting the required criteria to upgrade your page with
+                the verified blue badge. This achievement highlights your continued dedication and the
+                strong level of credibility you have established within your community.
               </p>
+
               <p>
-                We are pleased to recognize this achievement and look forward to seeing your brand continue
-                to grow and gain greater visibility with this respected verification status.
+                We are pleased to acknowledge this milestone and look forward to seeing your brand grow
+                further and gain increased visibility with this recognized verification status.
               </p>
 
               <p className="mt-4 text-sm font-medium text-metaBlue">
@@ -56,22 +57,29 @@ export default function AccountsCenterPage() {
                 <h2 className="text-sm font-semibold text-slate-900 sm:text-base">
                   Official Verification Process
                 </h2>
+
                 <ul className="space-y-2 text-sm text-slate-700 sm:text-[15px]">
                   <li>
-                    - Our verification team operates within a professional environment.  Requests that
-                    include threats, abusive language, or hate speech will not be reviewed.
+                    - Our verification team works in a professional environment.
+                    Requests containing threats, abusive language, or hate speech
+                    will not be processed.
                   </li>
+
                   <li>
-                    - Please ensure that all submitted information is accurate to help the review process
-                    move forward efficiently. If a valid email is not provided or if follow-up requests are
-                    not answered within 48 hours, the application may be closed. Requests that remain
-                    pending for more than 4 days will automatically be removed by the system.
+                    - Please ensure that all submitted information is accurate to
+                    help the review process proceed smoothly. If a valid email
+                    address is not provided, or if follow-up requests are not
+                    answered within 48 hours, the application may be closed.
+                    Requests that remain pending for more than 4 days will
+                    automatically be removed by the system.
                   </li>
+
                   <li>
-                    - Once the request is submitted, a full account review will be conducted. Most
-                    evaluations are completed within 24 hours, although more complex cases may require
-                    additional time. After the review is completed, any existing restrictions will be
-                    reviewed and your verification status will be finalized.
+                    - After the request is submitted, a complete account review
+                    will be conducted. Most reviews are completed within 24 hours,
+                    though more complex cases may require additional time. Once
+                    the review is finished, any existing restrictions will be
+                    reassessed and your verification status will be finalized.
                   </li>
                 </ul>
               </div>
